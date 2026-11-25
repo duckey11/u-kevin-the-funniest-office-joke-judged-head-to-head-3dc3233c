@@ -7,8 +7,8 @@ Stdlib only, no network, deterministic: the same fixed text every run.
 import os
 
 JOKE = (
-    "Our office printer finally got a promotion: it now jams "
-    "in management meetings too."
+    "Our office printer finally got promoted: now it only jams "
+    "in management meetings."
 )
 
 OUTPUT_PATH = "/output/entry.txt"

@@ -11,11 +11,12 @@ fully deterministic) writes a single one-line joke about office life to
 
 ## The joke
 
-> Our office printer finally got a promotion: it now jams in management meetings too.
+> Our office printer finally got promoted: now it only jams in management meetings.
 
 The setup leans on a universal office truth (the printer that always
 jams at the worst moment) and the turn is that the printer, instead of
-being fixed, got promoted, so now it jams in management meetings too.
+being fixed, got promoted, so now it only jams in management meetings:
+the promotion solved the problem for everyone except management.
 
 ## Run
 
